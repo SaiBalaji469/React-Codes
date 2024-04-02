@@ -1,0 +1,12 @@
+.offer{
+    text-decoration: line-through;
+}
+.container{
+    box-sizing: border-box;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    background-color: #644536;
+    color: white;
+    
+}

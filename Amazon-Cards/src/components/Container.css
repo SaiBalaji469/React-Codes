@@ -1,0 +1,9 @@
+.Container{
+    display: flex;
+    gap: 10px;
+    background-color: #BBD686;
+    padding: 10px;
+}
+h2{
+    align-self: first baseline;
+}
