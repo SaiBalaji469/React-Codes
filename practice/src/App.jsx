@@ -1,10 +1,11 @@
 
 import Counter from './Counter'
+import Input from './input'
 
 function App() {
 
   return (
-    <Counter />
+    <Input />
   )
 };
 
